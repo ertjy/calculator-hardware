@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "IND_NP-4R7NC_SUM")(type "KiCad")(uri "${KIPRJMOD}/parts_library/IND_NP-4R7NC_SUM.pretty")(options "")(descr ""))
+  (lib (name "TS-1187A-B-A-B")(type "KiCad")(uri "${KIPRJMOD}/parts_library/SW_TS-1187A-B-A-B.pretty")(options "")(descr ""))
+  (lib (name "Battery_Pads")(type "KiCad")(uri "${KIPRJMOD}/Battery_Pads.pretty")(options "")(descr ""))
+)
